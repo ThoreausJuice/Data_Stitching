@@ -30,7 +30,7 @@ column_name_to_be_written.append('B线润叶回风温度蒸汽阀开度')
 column_name_to_be_written.append('B线润叶注入蒸汽流量')
 # 6:B线润叶前温度仪实际值 对应 A-11 (B线润叶前温度仪实际值)
 column_name_to_be_written.append('B线润叶前温度仪实际值')
-# 7:B线润叶回风温度 对应 A-2 (B线润叶回风温度)
+# 7:B线润叶回风温度 对应 A-2 (叶片B线润叶回风温度)
 column_name_to_be_written.append('B线润叶回风温度')
 # 8:空列 用于给前后阶段做分割，视觉上好看
 column_name_to_be_written.append('')
